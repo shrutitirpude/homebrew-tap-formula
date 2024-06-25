@@ -9,3 +9,4 @@ console.log("Add a log in feature branch rebased");
 console.log("Add another log in feature branch rebased");
 console.log("Add another log ");
 console.log("Add another  another log ");
+console.log("testing github actions ");
