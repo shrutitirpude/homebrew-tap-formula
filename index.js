@@ -5,6 +5,5 @@ console.log("Add a merge");
 console.log("Add another log");
 console.log("Add a a new change to test merge logs after branches are merged");
 console.log("Add a a new change to test merge logs after branches are rebased");
-console.log(
-  "Add a another change to test merge logs after branches are rebased"
-);
+console.log("Add a log in feature branch rebased");
+console.log("Add another log in feature branch rebased");
