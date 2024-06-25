@@ -8,3 +8,4 @@ console.log("Add a a new change to test merge logs after branches are rebased");
 console.log(
   "Add a another change to test merge logs after branches are rebased"
 );
+console.log("Add a log in feature branch rebased");
